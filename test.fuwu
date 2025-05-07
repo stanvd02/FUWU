@@ -1,1 +1,3 @@
-echo string=<h1>If_you_can_see_this,_the_test_is_succesfull</h1> html color=yellow name=GetTest location=GitHub/FUWU/test.txt
+echo string=<h1>If_you_can_see_this,_the_test_is_succesfull</h1> html color=yellow name=GetTest location=GitHub/FUWU/test.fuwu
+&&
+echo string=extra_test
