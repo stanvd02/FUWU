@@ -1,1 +1,1 @@
-echo string=<h1>If you can see this, the test is succesfull</h1> html color=yellow name=GetTest location=GitHub/FUWU/test.txt
+echo string=<h1>If you_can_see_this,_the_test_is_succesfull</h1> html color=yellow name=GetTest location=GitHub/FUWU/test.txt
