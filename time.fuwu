@@ -1,0 +1,1 @@
+echo string=<h1>Time_displayer</h1> name=Timer location=GitHub/FUWU/time && echo string=The_time_is_%time% plain color=cyan
